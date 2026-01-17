@@ -1,0 +1,201 @@
+[
+    {
+        "pollId": 59,
+        "title": "Choose the Main Song Quaterfinal #1",
+        "image": "https://static.cosmo.fans/images/gravity/EventMain.png",
+        "start": "2022-12-01T09:00:00.000Z",
+        "end": "2022-12-02T07:00:00.000Z",
+        "reveal": "2022-12-02T08:30:00.000Z",
+        "type": "event-gravity",
+        "pollType": "single-poll",
+        "result": {
+            "totalComoUsed": 6793,
+            "voteResults": [
+                {
+                    "votedChoice": {
+                        "choiceName": "SONG B",
+                        "choiceImageUrl": "https://static.cosmo.fans/images/gravity-2022-grand-title/tx-image-song-b.png",
+                        "comoUsed": 3574
+                    }
+                },
+                {
+                    "votedChoice": {
+                        "choiceName": "SONG A",
+                        "choiceImageUrl": "https://static.cosmo.fans/images/gravity-2022-grand-title/tx-image-song-a.png",
+                        "comoUsed": 3219
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "pollId": 60,
+        "title": "Choose the Main Song Quaterfinal #2",
+        "image": "https://static.cosmo.fans/images/gravity/EventMain.png",
+        "start": "2022-12-02T09:00:00.000Z",
+        "end": "2022-12-03T07:00:00.000Z",
+        "reveal": "2022-12-03T08:30:00.000Z",
+        "type": "event-gravity",
+        "pollType": "single-poll"
+    },
+    {
+        "pollId": 61,
+        "title": "Choose the Main Song Quaterfinal #3",
+        "image": "https://static.cosmo.fans/images/gravity/EventMain.png",
+        "start": "2022-12-03T09:00:00.000Z",
+        "end": "2022-12-04T07:00:00.000Z",
+        "reveal": "2022-12-04T08:30:00.000Z",
+        "type": "event-gravity",
+        "pollType": "single-poll"
+    },
+    {
+        "pollId": 62,
+        "title": "Choose the Main Song Quaterfinal #4",
+        "image": "https://static.cosmo.fans/images/gravity/EventMain.png",
+        "start": "2022-12-04T09:00:00.000Z",
+        "end": "2022-12-05T07:00:00.000Z",
+        "reveal": "2022-12-05T08:30:00.000Z",
+        "type": "event-gravity",
+        "pollType": "single-poll"
+    },
+    {
+        "pollId": 63,
+        "title": "Choose the Main Song Semifinal #1",
+        "image": "https://static.cosmo.fans/images/gravity/EventMain.png",
+        "start": "2022-12-05T09:00:00.000Z",
+        "end": "2022-12-06T07:00:00.000Z",
+        "reveal": "2022-12-06T08:30:00.000Z",
+        "type": "event-gravity",
+        "pollType": "single-poll"
+    },
+    {
+        "pollId": 64,
+        "title": "Choose the Main Song Semifinal #2",
+        "image": "https://static.cosmo.fans/images/gravity/EventMain.png",
+        "start": "2022-12-06T09:00:00.000Z",
+        "end": "2022-12-07T07:00:00.000Z",
+        "reveal": "2022-12-07T08:30:00.000Z",
+        "type": "event-gravity",
+        "pollType": "single-poll"
+    },
+    {
+        "pollId": 65,
+        "title": "Choose the Main Song Final",
+        "image": "https://static.cosmo.fans/images/gravity/EventMain.png",
+        "start": "2022-12-07T09:00:00.000Z",
+        "end": "2022-12-08T07:00:00.000Z",
+        "reveal": "2022-12-08T08:30:00.000Z",
+        "type": "event-gravity",
+        "pollType": "single-poll"
+    },
+    {
+        "pollId": 1,
+        "title": "Our First Grand Gravity Day 1",
+        "image": "https://static.cosmo.fans/images/gravity/GrandMain.png",
+        "start": "2022-09-21T13:00:00.000Z",
+        "end": "2022-09-22T11:00:00.000Z",
+        "reveal": "2022-09-22T12:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 2,
+        "title": "Our First Grand Gravity Day 2",
+        "image": "https://static.cosmo.fans/images/gravity/GrandMain.png",
+        "start": "2022-09-22T13:00:00.000Z",
+        "end": "2022-09-23T11:00:00.000Z",
+        "reveal": "2022-09-23T12:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 3,
+        "title": "Our First Grand Gravity Day 3",
+        "image": "https://static.cosmo.fans/images/gravity/GrandMain.png",
+        "start": "2022-09-23T13:00:00.000Z",
+        "end": "2022-09-24T11:00:00.000Z",
+        "reveal": "2022-09-24T12:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 4,
+        "title": "Our First Grand Gravity Day 4",
+        "image": "https://static.cosmo.fans/images/gravity/GrandMain.png",
+        "start": "2022-09-24T13:00:00.000Z",
+        "end": "2022-09-25T11:00:00.000Z",
+        "reveal": "2022-09-25T12:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 69,
+        "title": "Two Big WAVes Day 1",
+        "image": "https://static.cosmo.fans/admin/uploads/de3deb98-a086-4191-bfe4-5cc65dd25e4f.png",
+        "start": "2023-04-21T09:00:00.000Z",
+        "end": "2023-04-22T07:00:00.000Z",
+        "reveal": "2023-04-22T09:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 70,
+        "title": "Two Big WAVes Day 2",
+        "image": "https://static.cosmo.fans/admin/uploads/de3deb98-a086-4191-bfe4-5cc65dd25e4f.png",
+        "start": "2023-04-22T09:00:00.000Z",
+        "end": "2023-04-23T07:00:00.000Z",
+        "reveal": "2023-04-23T09:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 71,
+        "title": "Two Big WAVes Day 3",
+        "image": "https://static.cosmo.fans/admin/uploads/de3deb98-a086-4191-bfe4-5cc65dd25e4f.png",
+        "start": "2023-04-23T09:00:00.000Z",
+        "end": "2023-04-24T07:00:00.000Z",
+        "reveal": "2023-04-24T09:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 72,
+        "title": "Two Big WAVes Day 4",
+        "image": "https://static.cosmo.fans/admin/uploads/de3deb98-a086-4191-bfe4-5cc65dd25e4f.png",
+        "start": "2023-04-24T09:00:00.000Z",
+        "end": "2023-04-25T07:00:00.000Z",
+        "reveal": "2023-04-25T09:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 73,
+        "title": "Two Big WAVes Day 5",
+        "image": "https://static.cosmo.fans/admin/uploads/de3deb98-a086-4191-bfe4-5cc65dd25e4f.png",
+        "start": "2023-04-25T09:00:00.000Z",
+        "end": "2023-04-26T07:00:00.000Z",
+        "reveal": "2023-04-26T09:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 74,
+        "title": "Two Big WAVes Day 6",
+        "image": "https://static.cosmo.fans/admin/uploads/de3deb98-a086-4191-bfe4-5cc65dd25e4f.png",
+        "start": "2023-04-26T09:00:00.000Z",
+        "end": "2023-04-27T07:00:00.000Z",
+        "reveal": "2023-04-27T09:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    },
+    {
+        "pollId": 75,
+        "title": "Two Big WAVes Day 7",
+        "image": "https://static.cosmo.fans/admin/uploads/de3deb98-a086-4191-bfe4-5cc65dd25e4f.png",
+        "start": "2023-04-27T09:00:00.000Z",
+        "end": "2023-04-28T07:00:00.000Z",
+        "reveal": "2023-04-28T09:00:00.000Z",
+        "type": "grand-gravity",
+        "pollType": "combination-poll"
+    }
+]
