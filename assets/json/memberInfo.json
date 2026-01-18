@@ -4,8 +4,8 @@
         "englishName": "SeoYeon",
         "koreanName": "윤서연",
         "color": {
-            "bgColor": "22aeff",
-            "textColor": "fff"
+            "bgColor": "#22aeff",
+            "textColor": "#fff"
         },
         "month": 8,
         "day": 6
@@ -14,8 +14,8 @@
         "englishName": "HyeRin",
         "koreanName": "정혜린",
         "color": {
-            "bgColor": "9200ff",
-            "textColor": "fff"
+            "bgColor": "#9200ff",
+            "textColor": "#fff"
         },
         "month": 4,
         "day": 12
@@ -24,8 +24,8 @@
         "englishName": "JiWoo",
         "koreanName": "이지우",
         "color": {
-            "bgColor": "fff800",
-            "textColor": "000"
+            "bgColor": "#fff800",
+            "textColor": "#000"
         },
         "month": 10,
         "day": 24
@@ -34,8 +34,8 @@
         "englishName": "ChaeYeon",
         "koreanName": "김채연",
         "color": {
-            "bgColor": "98f21d",
-            "textColor": "000"
+            "bgColor": "#98f21d",
+            "textColor": "#000"
         },
         "month": 12,
         "day": 4
@@ -44,8 +44,8 @@
         "englishName": "YooYeon",
         "koreanName": "김유연",
         "color": {
-            "bgColor": "db0c74",
-            "textColor": "fff"
+            "bgColor": "#db0c74",
+            "textColor": "#fff"
         },
         "month": 2,
         "day": 9
@@ -54,8 +54,8 @@
         "englishName": "SooMin",
         "koreanName": "김수민",
         "color": {
-            "bgColor": "fc83a4",
-            "textColor": "fff"
+            "bgColor": "#fc83a4",
+            "textColor": "#fff"
         },
         "month": 10,
         "day": 3
@@ -64,8 +64,8 @@
         "englishName": "NaKyoung",
         "koreanName": "김나경",
         "color": {
-            "bgColor": "6799a0",
-            "textColor": "fff"
+            "bgColor": "#6799a0",
+            "textColor": "#fff"
         },
         "month": 10,
         "day": 13
@@ -74,8 +74,8 @@
         "englishName": "YuBin",
         "koreanName": "공유빈",
         "color": {
-            "bgColor": "ffe3e2",
-            "textColor": "000"
+            "bgColor": "#ffe3e2",
+            "textColor": "#000"
         },
         "month": 2,
         "day": 3
@@ -84,8 +84,8 @@
         "englishName": "Kaede",
         "koreanName": "카에데",
         "color": {
-            "bgColor": "ffc935",
-            "textColor": "000"
+            "bgColor": "#ffc935",
+            "textColor": "#000"
         },
         "month": 12,
         "day": 20
@@ -94,8 +94,8 @@
         "englishName": "DaHyun",
         "koreanName": "서다현",
         "color": {
-            "bgColor": "ff9ad6",
-            "textColor": "000"
+            "bgColor": "#ff9ad6",
+            "textColor": "#000"
         },
         "month": 1,
         "day": 8
@@ -104,8 +104,8 @@
         "englishName": "Kotone",
         "koreanName": "코토네",
         "color": {
-            "bgColor": "ffde00",
-            "textColor": "000"
+            "bgColor": "#ffde00",
+            "textColor": "#000"
         },
         "month": 3,
         "day": 10
@@ -114,8 +114,8 @@
         "englishName": "YeonJi",
         "koreanName": "곽연지",
         "color": {
-            "bgColor": "5974ff",
-            "textColor": "fff"
+            "bgColor": "#5974ff",
+            "textColor": "#fff"
         },
         "month": 1,
         "day": 8
@@ -124,8 +124,8 @@
         "englishName": "Nien",
         "koreanName": "니엔",
         "color": {
-            "bgColor": "ff953f",
-            "textColor": "000"
+            "bgColor": "#ff953f",
+            "textColor": "#000"
         },
         "month": 6,
         "day": 2
@@ -134,8 +134,8 @@
         "englishName": "SoHyun",
         "koreanName": "박소현",
         "color": {
-            "bgColor": "1222b5",
-            "textColor": "fff"
+            "bgColor": "#1222b5",
+            "textColor": "#fff"
         },
         "month": 10,
         "day": 13
@@ -144,8 +144,8 @@
         "englishName": "Xinyu",
         "koreanName": "신위",
         "color": {
-            "bgColor": "d51313",
-            "textColor": "fff"
+            "bgColor": "#d51313",
+            "textColor": "#fff"
         },
         "month": 5,
         "day": 25
@@ -154,8 +154,8 @@
         "englishName": "Mayu",
         "koreanName": "마유",
         "color": {
-            "bgColor": "fe8e76",
-            "textColor": "fff"
+            "bgColor": "#fe8e76",
+            "textColor": "#fff"
         },
         "month": 5,
         "day": 12
@@ -164,8 +164,8 @@
         "englishName": "Lynn",
         "koreanName": "린",
         "color": {
-            "bgColor": "ac62b7",
-            "textColor": "fff"
+            "bgColor": "#ac62b7",
+            "textColor": "#fff"
         },
         "month": 4,
         "day": 12
@@ -174,8 +174,8 @@
         "englishName": "JooBin",
         "koreanName": "주빈",
         "color": {
-            "bgColor": "b7f54c",
-            "textColor": "000"
+            "bgColor": "#b7f54c",
+            "textColor": "#000"
         },
         "month": 1,
         "day": 16
@@ -184,8 +184,8 @@
         "englishName": "HaYeon",
         "koreanName": "정하연",
         "color": {
-            "bgColor": "52d9bb",
-            "textColor": "000"
+            "bgColor": "#52d9bb",
+            "textColor": "#000"
         },
         "month": 8,
         "day": 1
@@ -194,8 +194,8 @@
         "englishName": "ShiOn",
         "koreanName": "박시온",
         "color": {
-            "bgColor": "ff428a",
-            "textColor": "fff"
+            "bgColor": "#ff428a",
+            "textColor": "#fff"
         },
         "month": 4,
         "day": 3
@@ -204,8 +204,8 @@
         "englishName": "ChaeWon",
         "koreanName": "김채원",
         "color": {
-            "bgColor": "c7a3e0",
-            "textColor": "fff"
+            "bgColor": "#c7a3e0",
+            "textColor": "#fff"
         },
         "month": 5,
         "day": 2
@@ -214,8 +214,8 @@
         "englishName": "Sullin",
         "koreanName": "설린",
         "color": {
-            "bgColor": "7bba8d",
-            "textColor": "fff"
+            "bgColor": "#7bba8d",
+            "textColor": "#fff"
         },
         "month": 11,
         "day": 30
@@ -224,8 +224,8 @@
         "englishName": "SeoAh",
         "koreanName": "서아",
         "color": {
-            "bgColor": "cff3ff",
-            "textColor": "000"
+            "bgColor": "#cff3ff",
+            "textColor": "#000"
         },
         "month": 6,
         "day": 11
@@ -234,8 +234,8 @@
         "englishName": "JiYeon",
         "koreanName": "지연",
         "color": {
-            "bgColor": "ffab62",
-            "textColor": "000"
+            "bgColor": "#ffab62",
+            "textColor": "#000"
         },
         "month": 2,
         "day": 13
