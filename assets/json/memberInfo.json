@@ -2,6 +2,7 @@
     {},
     {
         "englishName": "SeoYeon",
+        "koreanShort": "서연",
         "koreanName": "윤서연",
         "color": {
             "bgColor": "#22aeff",
@@ -12,6 +13,7 @@
     },
     {
         "englishName": "HyeRin",
+        "koreanShort": "혜린",
         "koreanName": "정혜린",
         "color": {
             "bgColor": "#9200ff",
@@ -22,6 +24,7 @@
     },
     {
         "englishName": "JiWoo",
+        "koreanShort": "지우",
         "koreanName": "이지우",
         "color": {
             "bgColor": "#fff800",
@@ -32,6 +35,7 @@
     },
     {
         "englishName": "ChaeYeon",
+        "koreanShort": "채연",
         "koreanName": "김채연",
         "color": {
             "bgColor": "#98f21d",
@@ -42,6 +46,7 @@
     },
     {
         "englishName": "YooYeon",
+        "koreanShort": "유연",
         "koreanName": "김유연",
         "color": {
             "bgColor": "#db0c74",
@@ -52,6 +57,7 @@
     },
     {
         "englishName": "SooMin",
+        "koreanShort": "수민",
         "koreanName": "김수민",
         "color": {
             "bgColor": "#fc83a4",
@@ -62,6 +68,7 @@
     },
     {
         "englishName": "NaKyoung",
+        "koreanShort": "나경",
         "koreanName": "김나경",
         "color": {
             "bgColor": "#6799a0",
@@ -72,6 +79,7 @@
     },
     {
         "englishName": "YuBin",
+        "koreanShort": "유빈",
         "koreanName": "공유빈",
         "color": {
             "bgColor": "#ffe3e2",
@@ -82,6 +90,7 @@
     },
     {
         "englishName": "Kaede",
+        "koreanShort": "카에데",
         "koreanName": "카에데",
         "color": {
             "bgColor": "#ffc935",
@@ -92,6 +101,7 @@
     },
     {
         "englishName": "DaHyun",
+        "koreanShort": "다현",
         "koreanName": "서다현",
         "color": {
             "bgColor": "#ff9ad6",
@@ -102,6 +112,7 @@
     },
     {
         "englishName": "Kotone",
+        "koreanShort": "코토네",
         "koreanName": "코토네",
         "color": {
             "bgColor": "#ffde00",
@@ -112,6 +123,7 @@
     },
     {
         "englishName": "YeonJi",
+        "koreanShort": "연지",
         "koreanName": "곽연지",
         "color": {
             "bgColor": "#5974ff",
@@ -122,6 +134,7 @@
     },
     {
         "englishName": "Nien",
+        "koreanShort": "니엔",
         "koreanName": "니엔",
         "color": {
             "bgColor": "#ff953f",
@@ -132,6 +145,7 @@
     },
     {
         "englishName": "SoHyun",
+        "koreanShort": "소현",
         "koreanName": "박소현",
         "color": {
             "bgColor": "#1222b5",
@@ -142,6 +156,7 @@
     },
     {
         "englishName": "Xinyu",
+        "koreanShort": "신위",
         "koreanName": "신위",
         "color": {
             "bgColor": "#d51313",
@@ -152,6 +167,7 @@
     },
     {
         "englishName": "Mayu",
+        "koreanShort": "마유",
         "koreanName": "마유",
         "color": {
             "bgColor": "#fe8e76",
@@ -162,6 +178,7 @@
     },
     {
         "englishName": "Lynn",
+        "koreanShort": "린",
         "koreanName": "린",
         "color": {
             "bgColor": "#ac62b7",
@@ -172,6 +189,7 @@
     },
     {
         "englishName": "JooBin",
+        "koreanShort": "주빈",
         "koreanName": "주빈",
         "color": {
             "bgColor": "#b7f54c",
@@ -182,6 +200,7 @@
     },
     {
         "englishName": "HaYeon",
+        "koreanShort": "하연",
         "koreanName": "정하연",
         "color": {
             "bgColor": "#52d9bb",
@@ -192,6 +211,7 @@
     },
     {
         "englishName": "ShiOn",
+        "koreanShort": "시온",
         "koreanName": "박시온",
         "color": {
             "bgColor": "#ff428a",
@@ -202,6 +222,7 @@
     },
     {
         "englishName": "ChaeWon",
+        "koreanShort": "채원",
         "koreanName": "김채원",
         "color": {
             "bgColor": "#c7a3e0",
@@ -212,6 +233,7 @@
     },
     {
         "englishName": "Sullin",
+        "koreanShort": "설린",
         "koreanName": "설린",
         "color": {
             "bgColor": "#7bba8d",
@@ -222,6 +244,7 @@
     },
     {
         "englishName": "SeoAh",
+        "koreanShort": "서아",
         "koreanName": "서아",
         "color": {
             "bgColor": "#cff3ff",
@@ -232,6 +255,7 @@
     },
     {
         "englishName": "JiYeon",
+        "koreanShort": "지연",
         "koreanName": "지연",
         "color": {
             "bgColor": "#ffab62",
