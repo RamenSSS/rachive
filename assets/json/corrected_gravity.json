@@ -1,5 +1,14 @@
 [
     {
+        "pollId": 225,
+        "title": "2026 tripleS X 1theK Reality Show Gravity",
+        "image": "https://static.cosmo.fans/images/gravity/1cd68cda-410f-490c-bb71-eb66ac3f2a03.png",
+        "start": "2026-04-23T10:00:00.000Z",
+        "end": "2026-04-25T10:00:00.000Z",
+        "reveal": "2026-04-25T14:00:00.000Z",
+        "pollType": "single-poll"
+    },
+    {
         "pollId": 59,
         "title": "Choose the Main Song Quaterfinal #1",
         "image": "https://static.cosmo.fans/images/gravity/EventMain.png",
