@@ -6,7 +6,7 @@
         "start": "2026-04-23T10:00:00.000Z",
         "end": "2026-04-25T10:00:00.000Z",
         "reveal": "2026-04-25T14:00:00.000Z",
-        "type": "grand-gravity",
+        "type": "event-gravity",
         "pollType": "single-poll"
     },
     {
