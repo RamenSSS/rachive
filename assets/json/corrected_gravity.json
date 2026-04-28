@@ -7,7 +7,28 @@
         "end": "2026-04-25T10:00:00.000Z",
         "reveal": "2026-04-25T14:00:00.000Z",
         "type": "event-gravity",
-        "pollType": "single-poll"
+        "pollType": "single-poll",
+        "result": {
+            "totalComoUsed": 496143,
+            "voteResults": [
+                {
+                    "rank": 1,
+                    "votedChoice": {
+                        "choiceName": "Trust No One",
+                        "choiceImageUrl": "https://static.cosmo.fans/admin/uploads/92669321-60ab-409e-8184-7234487db6d7.png",
+                        "comoUsed": 385373
+                    }
+                },
+                {
+                    "rank": 2,
+                    "votedChoice": {
+                        "choiceName": "ALL YES, tripleS",
+                        "choiceImageUrl": "https://static.cosmo.fans/admin/uploads/ebdfd3ff-cf2a-4865-a4ad-82c0d8997074.png",
+                        "comoUsed": 110770
+                    }
+                }
+            ]
+        }
     },
     {
         "pollId": 59,
